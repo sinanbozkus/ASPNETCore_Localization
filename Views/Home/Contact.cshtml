@@ -1,0 +1,23 @@
+﻿@model ContactFormViewModel
+
+<form class="form-horizontal" method="post" action="ContactSave">
+    <div class="form-group">
+        <label class="col-sm-2 control-label" asp-for="Name"></label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" asp-for="Name">
+            <span asp-validation-for="Name"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2 control-label" asp-for="Message"></label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" asp-for="Message">
+            <span asp-validation-for="Message"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+            <button type="submit" class="btn btn-default">Save</button>
+        </div>
+    </div>
+</form>

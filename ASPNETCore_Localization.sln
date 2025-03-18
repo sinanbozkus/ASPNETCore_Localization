@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2009
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCore_Localization", "ASPNETCore_Localization\ASPNETCore_Localization.csproj", "{36561566-3325-40ED-817F-A64DCC5C4A6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCore_Localization", "ASPNETCore_Localization.csproj", "{BCF27D93-99E6-4285-9788-B191CA177133}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{36561566-3325-40ED-817F-A64DCC5C4A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{36561566-3325-40ED-817F-A64DCC5C4A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{36561566-3325-40ED-817F-A64DCC5C4A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{36561566-3325-40ED-817F-A64DCC5C4A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF27D93-99E6-4285-9788-B191CA177133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF27D93-99E6-4285-9788-B191CA177133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF27D93-99E6-4285-9788-B191CA177133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF27D93-99E6-4285-9788-B191CA177133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BAD2AE16-2EA5-4C05-991F-5DED58ADC608}
+		SolutionGuid = {B853214C-89A3-4312-B46B-17BF60E321A6}
 	EndGlobalSection
 EndGlobal
